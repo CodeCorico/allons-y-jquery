@@ -1,0 +1,23 @@
+{
+  "name": "allons-y-jquery",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeCorico/allons-y-jquery.git"
+  },
+  "author": "CodeCorico <hello@codecorico.com>",
+  "bugs": {
+    "url": "https://github.com/CodeCorico/allons-y-jquery/issues"
+  },
+  "homepage": "https://github.com/CodeCorico/allons-y-jquery",
+  "engines": {
+    "node": ">=4.1",
+    "npm": ">=3.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
